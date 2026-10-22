@@ -2,6 +2,7 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
+<<<<<<< HEAD
   <suite started-at="2026-10-22T13:43:46 IST" name="Suite" finished-at="2026-10-22T13:43:48 IST" duration-ms="1588">
     <groups>
     </groups>
@@ -12,6 +13,18 @@
           </reporter-output>
         </test-method> <!-- display -->
       </class> <!-- mavenproject.Classnew -->
+=======
+  <suite started-at="2026-10-22T07:23:24 IST" name="Suite" finished-at="2026-10-22T07:23:26 IST" duration-ms="2153">
+    <groups>
+    </groups>
+    <test started-at="2026-10-22T07:23:24 IST" name="Test" finished-at="2026-10-22T07:23:26 IST" duration-ms="2153">
+      <class name="test.java.test_prject.NewTest">
+        <test-method signature="f()[pri:0, instance:test.java.test_prject.NewTest@115667d]" started-at="2026-10-22T07:23:24 IST" name="f" finished-at="2026-10-22T07:23:26 IST" duration-ms="2120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- test.java.test_prject.NewTest -->
+>>>>>>> 79172f0b62672d6daff5e592c285808b6a5db514
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

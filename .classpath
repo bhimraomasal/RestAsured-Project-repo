@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+<<<<<<< HEAD
 	<classpathentry kind="src" output="target/classes" path="src/main/java">
 		<attributes>
 			<attribute name="optional" value="true"/>
@@ -36,6 +37,14 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+=======
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-25">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+>>>>>>> 79172f0b62672d6daff5e592c285808b6a5db514
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="lib" path="C:/Selenium project/selenium-java-4.51.0/annotations-26.1.0.jar"/>
 	<classpathentry kind="lib" path="C:/Selenium project/selenium-java-4.51.0/annotations-26.1.0-sources.jar"/>
@@ -112,5 +121,9 @@
 	<classpathentry kind="lib" path="C:/Selenium project/selenium-java-4.51.0/selenium-safari-driver-4.51.0-sources.jar"/>
 	<classpathentry kind="lib" path="C:/Selenium project/selenium-java-4.51.0/selenium-support-4.51.0.jar"/>
 	<classpathentry kind="lib" path="C:/Selenium project/selenium-java-4.51.0/selenium-support-4.51.0-sources.jar"/>
+<<<<<<< HEAD
 	<classpathentry kind="output" path="target/classes"/>
+=======
+	<classpathentry kind="output" path="bin"/>
+>>>>>>> 79172f0b62672d6daff5e592c285808b6a5db514
 </classpath>

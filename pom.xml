@@ -5,8 +5,13 @@
 
     <modelVersion>4.0.0</modelVersion>
 
+<<<<<<< HEAD
     <groupId>Mavenproject</groupId>
     <artifactId>mavenproject</artifactId>
+=======
+    <groupId>com.automation</groupId>
+    <artifactId>test_prject</artifactId>
+>>>>>>> 79172f0b62672d6daff5e592c285808b6a5db514
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
